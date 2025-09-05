@@ -1,0 +1,6 @@
+*.sqlite
+*.template
+.ipynb_checkpoints
+*.json
+*.gz
+*.txt
